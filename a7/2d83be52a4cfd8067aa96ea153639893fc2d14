@@ -1,0 +1,23 @@
+hack/generate-iam-from-credrequest.sh
+  s_4eb337e5b64454::t_2074021e3ed194 26-28
+hack/operator-permission-policy.json
+  s_4eb337e5b64454::t_fd811d8128b921 27
+assets/operator-iam-policy.json
+  s_4eb337e5b64454::t_fd811d8128b921 27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "a72d83be52a4cfd8067aa96ea153639893fc2d14",
+  "prompts": {},
+  "sessions": {
+    "s_4eb337e5b64454": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "cece9630-b8e7-48dd-aab5-e99b01641405",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
