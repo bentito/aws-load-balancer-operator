@@ -1,0 +1,29 @@
+bundle/manifests/aws-load-balancer-operator.clusterserviceversion.yaml
+  s_4eb337e5b64454::t_59709a9a22bf15 285-286
+bundle/manifests/aws-load-balancer-operator-manager-config_v1_configmap.yaml
+  s_4eb337e5b64454::t_59709a9a22bf15 9
+demonstrate-deregistration-gap.sh
+  s_4eb337e5b64454::t_59709a9a22bf15 1-369
+go.mod
+  s_4eb337e5b64454::t_501fdd1244bad3 18,32,52,75,91,101,129,138,228,253-261,281-283,293,295,301
+OCPBUGS-97941-short-analysis.md
+  s_4eb337e5b64454::t_59709a9a22bf15 1-18
+OCPBUGS-97941-analysis.md
+  s_4eb337e5b64454::t_59709a9a22bf15 1-54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "60da712ddf74d2f4c55e6a5c4f2e8f6aa999ed99",
+  "prompts": {},
+  "sessions": {
+    "s_4eb337e5b64454": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "cece9630-b8e7-48dd-aab5-e99b01641405",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
