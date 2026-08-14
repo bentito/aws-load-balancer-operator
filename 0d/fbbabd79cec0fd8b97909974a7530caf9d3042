@@ -1,0 +1,21 @@
+hack/operator-permission-policy.json
+  s_4eb337e5b64454::t_5eee170dadd7db 5,8-9,12,16-17,20,23-24
+config/manifests/kustomization.yaml
+  s_4eb337e5b64454::t_5eee170dadd7db 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "0dfbbabd79cec0fd8b97909974a7530caf9d3042",
+  "prompts": {},
+  "sessions": {
+    "s_4eb337e5b64454": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "cece9630-b8e7-48dd-aab5-e99b01641405",
+        "model": "gemini-3.5-flash"
+      },
+      "human_author": "Brett Tofel <btofel@redhat.com>"
+    }
+  }
+}
